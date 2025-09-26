@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I’m Debangshu Goswami<br><br>🚀 4+ years of experience in Marketing — built and scaled 2 agencies successfully.<br><br>☁️ Skilled in Cloud Engineering with hands-on expertise in GCP, AWS, and Azure, backed by certifications & badges.<br><br>🤖 Currently diving deep into AI & Product Management, building real-life MVPs that solve meaningful problems.<br><br>💡 Passionate about bridging the gap between technology, business, and innovation.<br><br>📫 Let’s connect: https://www.linkedin.com/in/themarketingdebangshu/
+👋 Hey, I’m Debangshu Goswami<br><br>🚀 4+ years of experience in Marketing — built and scaled 2 Agencies successfully.<br><br>☁️ Skilled in Cloud Engineering with hands-on expertise in GCP, AWS, and Azure, backed by certifications & badges.<br><br>🤖 Currently diving deep into AI & Product Management, building real-life MVPs that solve meaningful problems.<br><br>💡 Passionate about bridging the gap between technology, business, and innovation.<br><br>📫 Let’s connect: https://www.linkedin.com/in/themarketingdebangshu/
 
 
 ## 🌐 Socials:
